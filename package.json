@@ -1,0 +1,16 @@
+{
+  "name": "cs4241-final",
+  "version": "0.1.0",
+  "description": "WPI CS 4241 Final Project",
+  "author": "Frank Egan",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "firebase-admin": "^5.4.2",
+    "lodash": "^4.17.4"
+  }
+}
